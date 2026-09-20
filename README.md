@@ -8,12 +8,12 @@
 
 > **A vision-first AI application that ingests and reasons over complex documents including PDFs, charts, and diagrams.**
 
-## 🌟 Key Features
-- ✅ **Optical Character Recognition (OCR) and layout parsing**
-- ✅ **Vision-LLM inference for chart comprehension**
-- ✅ **Hybrid text/image semantic indexing**
+## Key Features
+- **Optical Character Recognition (OCR) and layout parsing**
+- **Vision-LLM inference for chart comprehension**
+- **Hybrid text/image semantic indexing**
 
-## 🏗️ Architecture
+## Architecture
 
 ```mermaid
 flowchart TD
@@ -24,7 +24,7 @@ flowchart TD
     C & E --> F[(Hybrid Search DB)]
 ```
 
-## 🚀 Live API Endpoint (Vercel)
+## Live API Endpoint (Vercel)
 
 This project is deployed serverless via Vercel Edge Functions. You can test the interaction directly from your terminal.
 
@@ -33,7 +33,7 @@ This project is deployed serverless via Vercel Edge Functions. You can test the 
 curl -X GET https://multimodal-vision-jk35vvn05-dev4aibots.vercel.app/api/health
 ```
 
-## 💻 Developer Quickstart
+## Developer Quickstart
 
 ### Prerequisites
 - Python 3.11+
@@ -65,7 +65,7 @@ curl -X GET https://multimodal-vision-jk35vvn05-dev4aibots.vercel.app/api/health
    npm run dev
    ```
 
-## 📁 Project Structure
+## Project Structure
 ```
 .
 ├── api/                  # Vercel serverless endpoints
@@ -76,5 +76,5 @@ curl -X GET https://multimodal-vision-jk35vvn05-dev4aibots.vercel.app/api/health
 └── vercel.json           # Vercel routing configuration
 ```
 
-## 📄 License
+## License
 This project is licensed under the MIT License.
