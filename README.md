@@ -1,5 +1,7 @@
 # Multimodal Vision QA
 
+![Terminal Demo](demo.gif)
+
 A vision-first AI application that reasons over complex documents (PDFs, charts, diagrams) rather than just extracting plain text.
 
 ## Tech Stack
@@ -25,6 +27,8 @@ This project is deployed as a serverless backend on Vercel. You can test the API
 
 ```bash
 # Example Request
+
+![Terminal Demo](demo.gif)
 curl -X GET https://multimodal-vision-jk35vvn05-dev4aibots.vercel.app/api/health
 ```
 
