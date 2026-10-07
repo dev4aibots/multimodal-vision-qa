@@ -1,5 +1,9 @@
 # Multimodal Vision QA
 
+> 🧪 **Learning build** — a course/tutorial project for studying multimodal document QA. Not a production system.
+
+> **Status:** Reference / learning code. The scaffold runs locally for experimentation; it is not deployed, has no production users, and has not been hardened for production use.
+
 Vision-first AI pipeline that extracts structure and semantics from PDFs, charts, and diagrams.
 
 [ Demo ] [ Architecture ] [ API Docs ] [ Evaluation ]
@@ -9,7 +13,7 @@ Vision-first AI pipeline that extracts structure and semantics from PDFs, charts
 Python • GPT-4V • LayoutLM • OCR • FAISS
 
 ## What it does
-Vision-first AI pipeline that extracts structure and semantics from PDFs, charts, and diagrams. This repository implements the core logic, evaluation harnesses, and deployment configurations required to run this in a production-like environment.
+Vision-first AI pipeline that extracts structure and semantics from PDFs, charts, and diagrams. This repository is a learning scaffold — core logic, evaluation harnesses, and example configs for study and experimentation, not hardened for production use.
 
 ## Execution Trace (Proof of Work)
 
