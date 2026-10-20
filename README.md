@@ -1,12 +1,12 @@
 # Multimodal Vision QA
 
-🚀 **Live demo:** https://multimodal-vision-qa-demo.vercel.app
+**Live demo:** https://multimodal-vision-qa-demo.vercel.app
 
 > An engineering deep-dive into multimodal document QA — real pipeline code, clean architecture, and honestly measured results.
 
 Vision-first AI pipeline that extracts structure and semantics from PDFs, charts, and diagrams.
 
-[ Demo ] [ Architecture ] [ API Docs ] [ Evaluation ]
+[Demo](demo.gif) · [Architecture](docs/architecture.md) · [Evaluation](docs/evaluation.md)
 
 ![Terminal Demo](demo.gif)
 
